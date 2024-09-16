@@ -30,7 +30,7 @@ export default function Mission() {
           </p>
           <Image
             src={NearImg}
-            className="absolute -left-52 -top-10 h-full w-auto scale-125"
+            className="absolute -left-40  h-full w-auto scale-110"
           ></Image>
         </div>
       </div>
