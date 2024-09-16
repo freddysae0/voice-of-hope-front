@@ -14,7 +14,7 @@ export default function Hero() {
         <div className="pl-7 md:pl-24  flex flex-col gap-5">
           <h1
             style={{ fontFamily: "'Calistoga', system-ui" }}
-            className="text-8xl text-primary leading-tight max-w-[400px] "
+            className="text-8xl text-primary leading-tight  "
           >
             VOICE OF <span className="text-secondary">HOPE</span>
           </h1>
