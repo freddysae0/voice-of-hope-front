@@ -3,6 +3,7 @@ import Mission from "@/views/LandingPage/Mission";
 import Near from "@/views/LandingPage/Near";
 import Sponsored from "@/views/LandingPage/Sponsored";
 import Head from "next/head";
+import Team from "./LandingPage/Team";
 
 export default function Landing() {
   return (
@@ -12,6 +13,7 @@ export default function Landing() {
       </Head>
       <Hero></Hero>
       <Mission></Mission>
+      <Team></Team>
       <Near></Near>
       <Sponsored></Sponsored>
     </div>
