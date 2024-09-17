@@ -42,7 +42,6 @@ export default function Team() {
           className="object-cover max-h-[356px] w-auto"
           src={fullteam}
         ></Image>
-        ;
       </div>
     </section>
   );
